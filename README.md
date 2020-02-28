@@ -68,5 +68,15 @@ A collection of PyTorch notebooks for studying and practicing deep learning. Eac
     <td class="tg-yw4l"><a href="https://medium.com/dair-ai/building-rnns-is-fun-with-pytorch-and-google-colab-3903ea9a3a79">read</a></td>
   </tr>
   
+   <tr>
+    <td class="tg-yw4l">A Simple Neural Network from Scratch with PyTorch and Google Colab</td>
+    <td class="tg-yw4l">In this tutorial we implement a simple neural network from scratch using PyTorch.</td>
+    <td class="tg-yw4l">Neural Networks</td>
+    <td class="tg-yw4l">Beginner</td>
+    <td class="tg-yw4l"><a href="https://drive.google.com/file/d/109gHWFUlUzuwhgXROpzIuVoSPZA_qeoy/view?usp=sharing">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '400px' >
+</a></td>
+    <td class="tg-yw4l"><a href="https://medium.com/dair-ai/a-simple-neural-network-from-scratch-with-pytorch-and-google-colab-c7f3830618e0">read</a></td>
+  </tr>
   
 </table>
