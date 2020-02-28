@@ -57,7 +57,16 @@ A collection of PyTorch notebooks for studying and practicing deep learning. Eac
     <td class="tg-yw4l"><a href="https://medium.com/dair-ai/pytorch-1-2-introduction-guide-f6fa9bb7597c">read</a></td>
   </tr>
   
-  
+  <tr>
+    <td class="tg-yw4l">Building RNNs is Fun with PyTorch</td>
+    <td class="tg-yw4l">This notebook teaches you how to build a recurrent neural network (RNN) with a single layer, consisting of one single neuron. It also teaches how to implement a simple RNN-based model for image classification.</td>
+    <td class="tg-yw4l">Neural Networks</td>
+    <td class="tg-yw4l">Beginner</td>
+    <td class="tg-yw4l"><a href="https://colab.research.google.com/drive/1NVuWLZ0cuXPAtwV4Fs2KZ2MNla0dBUas#scrollTo=FD98PsQi8CRv">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '400px' >
+</a></td>
+    <td class="tg-yw4l"><a href="https://medium.com/dair-ai/pytorch-1-2-introduction-guide-f6fa9bb7597c">read</a></td>
+  </tr>
   
   
 </table>
