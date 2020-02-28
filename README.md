@@ -51,7 +51,7 @@ A collection of PyTorch notebooks for studying and practicing deep learning. Eac
     <td class="tg-yw4l">This comprehensive tutorial aims to introduce the fundamentals of PyTorch building blocks for training neural networks.</td>
     <td class="tg-yw4l">Neural Networks</td>
     <td class="tg-yw4l">Beginner</td>
-    <td class="tg-yw4l"><a href="https://github.com/omarsar/pytorch_notebooks/blob/master/A_Gentle_Introduction_to_PyTorch_1_2.ipynb">
+    <td class="tg-yw4l"><a href="https://colab.research.google.com/github/omarsar/pytorch_notebooks/blob/master/A_Gentle_Introduction_to_PyTorch_1_2.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '400px' >
 </a></td>
     <td class="tg-yw4l"><a href="https://medium.com/dair-ai/pytorch-1-2-introduction-guide-f6fa9bb7597c">read</a></td>
