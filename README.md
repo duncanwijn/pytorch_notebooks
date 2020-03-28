@@ -81,16 +81,3 @@ A collection of PyTorch notebooks for studying and practicing deep learning. Eac
   
 </table>
 
----
-
-If this repository helped you in your research, please consider citing us:
-
-```
-@misc{saravia2020dair,
-  title={dair.ai: Democratizing Artificial Intelligence Research, Education, and Technologies},
-  author={Saravia, Elvis},
-  journal={https://github.com/dair-ai},
-  number={1},
-  year={2020}
-}
-```
