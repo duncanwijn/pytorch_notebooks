@@ -138,7 +138,16 @@ A collection of PyTorch notebooks for studying and practicing deep learning. Eac
     <td class="tg-yw4l"><a href="">coming soon!</a></td>
   </tr>
   
-  
+  <tr>
+    <td class="tg-yw4l">Text Similarity Search using Pretrained Language Models</td>
+    <td class="tg-yw4l">In this tutorial we show how to build a simple text similarity search application using pretrained language models and Elasticsearch.</td>
+    <td class="tg-yw4l">Deep Learning NLP Applications</td>
+    <td class="tg-yw4l">Advanced</td>
+    <td class="tg-yw4l"><a href="https://colab.research.google.com/drive/1ORIAvdM86mFCU79SSwZD09vaH_oGes1z">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >
+</a></td>
+    <td class="tg-yw4l"><a href="">coming soon!</a></td>
+  </tr>
   
   
 </table>
