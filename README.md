@@ -92,6 +92,18 @@ A collection of PyTorch notebooks for studying and practicing deep learning. Eac
   
   
    <tr>
+    <td class="tg-yw4l">Deep Learning for NLP</td>
+    <td class="tg-yw4l">In this notebook we are going to use deep learning (RNN model) for approaching NLP tasks.</td>
+    <td class="tg-yw4l">Deep Learning NLP</td>
+    <td class="tg-yw4l">Beginner</td>
+    <td class="tg-yw4l"><a href="https://colab.research.google.com/drive/1xEzL8mK7oUnjkgbnANBPvLwdTSZAyDGF">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >
+</a></td>
+    <td class="tg-yw4l"><a href="">coming soon!</a></td>
+  </tr>
+  
+  
+   <tr>
     <td class="tg-yw4l">Neural Machine Translation with Attention using PyTorch</td>
     <td class="tg-yw4l">In this notebook we are going to perform neural machine translation using a deep learning based approach and attention mechanism.</td>
     <td class="tg-yw4l">Deep Learning NLP</td>
