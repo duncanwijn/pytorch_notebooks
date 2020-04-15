@@ -79,6 +79,18 @@ A collection of PyTorch notebooks for studying and practicing deep learning. Eac
     <td class="tg-yw4l"><a href="https://medium.com/dair-ai/a-simple-neural-network-from-scratch-with-pytorch-and-google-colab-c7f3830618e0">read</a></td>
   </tr>
   
+  <tr>
+    <td class="tg-yw4l">NLP Basic</td>
+    <td class="tg-yw4l">In this tutorial we show the basics of preparing your textual data for NLP.</td>
+    <td class="tg-yw4l">NLP</td>
+    <td class="tg-yw4l">Beginner</td>
+    <td class="tg-yw4l"><a href="https://colab.research.google.com/drive/1sGmZht-ewnLglPwYPDWFWxSk3P-yFJ_d">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >
+</a></td>
+    <td class="tg-yw4l"><a href="">coming soon!</a></td>
+  </tr>
+  
+  
    <tr>
     <td class="tg-yw4l">Fine-tuning BERT Language Model for Emotion Classification</td>
     <td class="tg-yw4l">In this tutorial we demonstrate how to fine-tune BERT-based model for multiclass emotion classification.</td>
