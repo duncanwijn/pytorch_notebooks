@@ -149,6 +149,17 @@ A collection of PyTorch notebooks for studying and practicing deep learning. Eac
     <td class="tg-yw4l"><a href="">coming soon!</a></td>
   </tr>
   
+  <tr>
+    <td class="tg-yw4l">Spinal Cord Gray Matter Segmentation Using PyTorch</td>
+    <td class="tg-yw4l">In this notebook we are going to explore a medical imaging open-source library known as MedicalTorch, which was built on top of PyTorch.</td>
+    <td class="tg-yw4l">Deep Learning in Medicine</td>
+    <td class="tg-yw4l">Advanced</td>
+    <td class="tg-yw4l"><a href="https://colab.research.google.com/drive/12A0Bm8HzeBuImAKbDuJSzAwDTsezHHeW">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >
+</a></td>
+    <td class="tg-yw4l"><a href="">coming soon!</a></td>
+  </tr>
+  
   
 </table>
 
