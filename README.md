@@ -82,7 +82,7 @@ A collection of PyTorch notebooks for studying and practicing deep learning. Eac
    <tr>
     <td class="tg-yw4l">Fine-tuning BERT Language Model for Emotion Classification</td>
     <td class="tg-yw4l">In this tutorial we demonstrate how to fine-tune BERT-based model for multiclass emotion classification.</td>
-    <td class="tg-yw4l">Neural Networks</td>
+    <td class="tg-yw4l">Deep Learning NLP</td>
     <td class="tg-yw4l">Advanced</td>
     <td class="tg-yw4l"><a href="https://colab.research.google.com/drive/1nwCE6b9PXIKhv2hvbqf1oZKIGkXMTi1X">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >
