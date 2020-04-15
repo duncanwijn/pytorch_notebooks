@@ -80,7 +80,7 @@ A collection of PyTorch notebooks for studying and practicing deep learning. Eac
   </tr>
   
   <tr>
-    <td class="tg-yw4l">NLP Basic</td>
+    <td class="tg-yw4l">NLP Basics</td>
     <td class="tg-yw4l">In this tutorial we show the basics of preparing your textual data for NLP.</td>
     <td class="tg-yw4l">NLP</td>
     <td class="tg-yw4l">Beginner</td>
